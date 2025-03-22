@@ -1,2 +1,0 @@
-# SC
-Bootstrap проект
